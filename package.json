@@ -1,5 +1,5 @@
 {
-  "name": "symbols-view",
+  "name": "symbols-view-temp-fork",
   "version": "0.83.0",
   "main": "./lib/main",
   "description": "Jump to a function/method in the current editor with `cmd-r`.",
@@ -23,7 +23,7 @@
     "q": "^1.1.2",
     "temp": "~0.8.1"
   },
-  "repository": "https://github.com/atom/symbols-view",
+  "repository": "https://github.com/johanlunds/symbols-view",
   "engines": {
     "atom": "*"
   }
